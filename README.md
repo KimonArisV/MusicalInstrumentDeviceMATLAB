@@ -1,6 +1,7 @@
 # MusicalInstrumentDeviceMATLAB
 
 ## Authors: Kimon-Aristotelis Vogt, Drew P. <br>
+## Year: 2019
 <p>This is a project that uses Signal and Systems priciples to create a instrumental device that can mimic any musical instrument and play any song.</p><br>
 
 ## Goal <br>
